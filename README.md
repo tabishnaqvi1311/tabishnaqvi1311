@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align = "centre">Hi There! 👋</h1>
 
 - Open Source Entusiast 😎
 - Pyth
