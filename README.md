@@ -1,8 +1,8 @@
 <h1 align = "centre">Hi There! 👋</h1>
 
-- Open Source Entusiast 😎
-- Python
-- Front End Web Developer 💻
+- Open Source Enthusiast 😎
+- DSA
+- Front End Web Developer 💻 + MERN stack
 - Twitter Bot Developer 
 - Currently learning : Full Stack and C++
 
