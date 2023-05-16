@@ -1,7 +1,7 @@
 <h1 align = "centre">Hey There! 👋</h1>
 
 ### About Me 🚀
-Open source enthusiast with a knack for DSA and front-end development using the MERN stack and have also built a Twitter bot. Currently leveling up with backend dev and DSA with C++. Other than coding, I enjoy books, games, and hanging with friends.
+Open source enthusiast with a knack for DSA and full stack web development using the MERN stack and have also built a Twitter bot. Currently leveling up with backend dev and DSA with C++. Other than coding, I enjoy books, games, and hanging with friends.
 
 ### Find out more : <a href = "https://www.linkedin.com/in/tabish-naqvi-a4a723103/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>    <a href = "https://twitter.com/gunhawke23">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
