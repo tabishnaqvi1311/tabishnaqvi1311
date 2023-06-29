@@ -41,6 +41,7 @@ Hey there, I am a sophomore pursuing a degree in computer science, and a passion
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 [<img src="https://img.shields.io/badge/CPP-282C34?logo=C%2B%2B&logoColor=blue" alt="cpp" title="cpp" height="25" />][learning_now_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/docker-282C34?logo=docker&logoColor=blue" alt="docker" title="docker" height="25" />][learning_now_anchor]
 
 ## 👾  What I am interested in learning at some point
 
