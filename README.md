@@ -29,6 +29,8 @@ Hey there, I am a sophomore pursuing a degree in computer science, and a passion
 &nbsp;
 [<img src="https://img.shields.io/badge/python-282C34?logo=python" alt="python logo" title="python" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/wordpress-282C34?logo=wordpress" alt="python logo" title="Wordpress" height="25" />][tech_tools_anchor]
+&nbsp;
 
 <a name="learning-next"></a>
 
