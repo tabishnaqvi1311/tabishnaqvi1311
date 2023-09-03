@@ -70,6 +70,5 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabishnaqvi1311&theme=calm\&rank_icon=github)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tabishnaqvi1311&theme=blood-dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabishnaqvi1311&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
