@@ -2,7 +2,7 @@
 <h1> Hello, my name is Tabish Naqvi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   
 ## About Me 🚀
-Hey there, I am a CSE sophomore, and a self-taught full stack web developer with love for technology and entrepreneurship. I enjoy building reliable and efficient projects and contributing to open source. When I'm not coding, find me reading, travelling or zoning out.
+Hey there, I am a CSE sophomore, and a self-taught full stack web developer with love for technology and entrepreneurship, currently teaching myself DevOps. I enjoy building reliable and efficient projects and passionately contributing to open source. When I'm not coding, find me reading, travelling or zoning out.
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>
 ## 🛠  Tools and Technologies
@@ -36,8 +36,6 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 
 ## 📖  What I am currently learning / improving on
 
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="mysqllogo" title="MySQL" height="25" />][learning_now_anchor]
@@ -47,15 +45,17 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 [<img src="https://img.shields.io/badge/docker-282C34?logo=docker&logoColor=blue" alt="docker" title="docker" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
+&nbsp;
 
 ## 👾  What I am interested in learning at some point
 
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon" alt="aws" title="Amazon Web Services" height="25" />][learning_now_anchor]
 &nbsp;
