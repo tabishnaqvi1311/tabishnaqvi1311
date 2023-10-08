@@ -47,6 +47,8 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=cyan" alt="Next.js logo" title="Go" height="25" />][learning_next_anchor]
+&nbsp;
 
 ## 👾  What I am interested in learning at some point
 
