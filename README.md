@@ -2,7 +2,7 @@
 <h1> Hello, my name is Tabish Naqvi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   
 ## About Me 🚀
-Hey there, I am a CSE sophomore, and a self-taught full stack web developer with love for technology and entrepreneurship, currently teaching myself DevOps. I enjoy building reliable and efficient projects and passionately contributing to open source. When I'm not coding, find me reading, travelling or zoning out.
+Hey there, I am a CSE sophomore, and a self-taught full stack web developer with love for technology and entrepreneurship, currently teaching myself DevOps. I enjoy building reliable and efficient projects and passionately contribute to open source. When I'm not coding, find me reading, travelling or zoning out.
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>
 ## 🛠  Tools and Technologies
@@ -51,6 +51,8 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 &nbsp;
 [<img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=cyan" alt="Next.js logo" title="Go" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=blue" alt="K8S" title="kubernetes" height="25" />][learning_next_anchor]
+&nbsp;
 
 ## 👾  What I am interested in learning at some point
 
@@ -61,7 +63,6 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 &nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
 &nbsp;
-
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
