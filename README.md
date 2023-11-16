@@ -2,7 +2,7 @@
 <h1> Hello, my name is Tabish Naqvi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   
 ## About Me 🚀
-Hey there, I am a CSE sophomore, and a self-taught full stack web developer with love for technology and entrepreneurship, currently teaching myself DevOps. I enjoy building reliable and efficient projects and passionately contribute to open source. When I'm not coding, find me reading, travelling or zoning out.
+Hey there, I am a CSE sophomore, and a self-taught full stack web developer with love for technology and entrepreneurship, currently teaching myself DevOps. I enjoy building reliable and efficient projects and passionately contribute to open source. When I'm not coding, find me reading, travelling or brainstorming.
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>
 ## 🛠  Tools and Technologies
