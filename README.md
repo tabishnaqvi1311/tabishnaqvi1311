@@ -21,17 +21,12 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/python-282C34?logo=python" alt="python logo" title="python" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/docker-282C34?logo=docker&logoColor=blue" alt="docker" title="docker" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/wordpress-282C34?logo=wordpress" alt="python logo" title="Wordpress" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="mysqllogo" title="MySQL" height="25" />][learning_now_anchor]
 &nbsp;
 
 <a name="learning-next"></a>
@@ -40,24 +35,19 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="mysqllogo" title="MySQL" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CPP-282C34?logo=C%2B%2B&logoColor=blue" alt="cpp" title="cpp" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon" alt="aws" title="Amazon Web Services" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=cyan" alt="Next.js logo" title="Go" height="25" />][learning_next_anchor]
 &nbsp;
+
+## 👾  What I am interested in learning at some point
+
 [<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=blue" alt="K8S" title="kubernetes" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=RabbitMQ" alt="RMQ" title="RabbitMQ" height="25" />][learning_next_anchor]
 &nbsp;
-
-## 👾  What I am interested in learning at some point
-
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
