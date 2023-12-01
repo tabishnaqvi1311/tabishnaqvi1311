@@ -28,14 +28,14 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="mysqllogo" title="MySQL" height="25" />][learning_now_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
+&nbsp;
 
 <a name="learning-next"></a>
 
 ## 📖  What I am currently learning / improving on
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon" alt="aws" title="Amazon Web Services" height="25" />][learning_now_anchor]
 &nbsp;
