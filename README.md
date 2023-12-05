@@ -41,6 +41,7 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 &nbsp;
 [<img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=cyan" alt="Next.js logo" title="Go" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 
 ## 👾  What I am interested in learning at some point
 
@@ -50,7 +51,6 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 &nbsp;
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
