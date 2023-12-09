@@ -42,6 +42,7 @@ Hey there, I am a CSE sophomore, and a self-taught full stack web developer with
 [<img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=cyan" alt="Next.js logo" title="Go" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Unity-282C34?logo=unity" alt="Unity" title="Unity" height="25" />][tech_tools_anchor]
 
 ## 👾  What I am interested in learning at some point
 
