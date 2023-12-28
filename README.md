@@ -2,7 +2,7 @@
 <h1> Hello, my name is Tabish Naqvi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   
 ## About Me 🚀
-Hey, I'm a sophomore computer science student and a self-taught full stack developer. I'm into tech, startups and build projects that really matter. I co-founded my first startup, Moyaai at 19, which is a job matching platform for YouTubers and job seekers I also like contributing to open source. When I'm not coding, I'm either reading, gymming, or brainstorming my next project.
+Hey, I'm a sophomore computer science student and a self-taught full stack developer who's into tech, startups and building projects that really matter. I co-founded my first startup, Moyaai at 19, which is a job matching platform for YouTubers and job seekers I also like contributing to open source. When I'm not coding, I'm either reading, gymming, or brainstorming my next project.
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>
 ## 🛠  Tools and Technologies
