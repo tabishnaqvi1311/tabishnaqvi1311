@@ -30,32 +30,8 @@ Hey, I'm a sophomore computer science student and a self-taught full stack devel
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
-
-<a name="learning-next"></a>
-
-## 📖  What I am currently learning / improving on
-
-[<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon" alt="aws" title="Amazon Web Services" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=cyan" alt="Next.js logo" title="Go" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/Unity-282C34?logo=unity" alt="Unity" title="Unity" height="25" />][tech_tools_anchor]
 
-## 👾  What I am interested in learning at some point
-
-[<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes&logoColor=blue" alt="K8S" title="kubernetes" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=RabbitMQ" alt="RMQ" title="RabbitMQ" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
-&nbsp;
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
