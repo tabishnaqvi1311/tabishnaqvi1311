@@ -2,15 +2,13 @@
 <h1> Hello, my name is Tabish Naqvi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   
 ## About Me 🚀
-Hey, I'm a sophomore computer science student and a self-taught full stack developer who's into tech, startups and building projects that really matter. When I'm not coding, I'm either reading, gymming, or brainstorming my next project.
+Hey, I'm a sophomore computer science student and a self-taught full stack developer who's into tech, startups and building projects that really matter. When I'm not coding, I'm either brainstorming my next project, reading or hanging out with friends.
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>
 ## 🛠  Tools and Technologies
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=cyan" alt="react logo" title="react" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />][learning_next_anchor]
