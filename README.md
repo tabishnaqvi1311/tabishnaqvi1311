@@ -29,6 +29,7 @@ Hey, I'm a sophomore computer science student and a self-taught full stack devel
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Unity-282C34?logo=unity" alt="Unity" title="Unity" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python" title="Python" height="25" />][tech_tools_anchor]
 
 
 [tech_tools_anchor]: #bonjour--
