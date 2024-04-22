@@ -39,7 +39,6 @@ I'm a sophomore computer science student and a self-taught developer who's into 
 
 <a href = "https://www.linkedin.com/in/tabish-naqvi-a4a723103/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>    <a href = "https://twitter.com/gunhawke23">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabishnaqvi1311&theme=calm\&rank_icon=github)
+<a href="https://gitroll.io/profile/umNYzVIQkylPJ42QxKtq6Z1rAjro1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/umNYzVIQkylPJ42QxKtq6Z1rAjro1" alt="GitRoll Profile Badge" width="380"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tabishnaqvi1311&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
