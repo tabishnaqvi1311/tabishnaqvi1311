@@ -24,12 +24,17 @@ I'm a sophomore computer science student and a self-taught developer who's into 
 &nbsp;
 [<img src="https://img.shields.io/badge/docker-282C34?logo=docker&logoColor=blue" alt="docker" title="docker" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="mysqllogo" title="MySQL" height="25" />][learning_now_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Unity-282C34?logo=unity" alt="Unity" title="Unity" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/postgresql-282C34?logo=postgresql&logoColor=blue" alt="PostgreSQL" title="PostgreSQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/prisma-282C34?logo=prisma&logoColor=fff" alt="Prisma" title="Prisma" height="25" />][tech_tools_anchor]
+&nbsp;
+
 
 
 [tech_tools_anchor]: #bonjour--
