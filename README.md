@@ -2,12 +2,14 @@
 <h1> Hey, my name is Tabish Naqvi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   
 ## About Me 🚀
-- Pre final year computer science student who's into tech, startups and building projects that really matter. 
+- Pre final year computer science student eager to build impactful software
+- Likes geography, music and math
 - Currently exploring machine learning.
-- I also blog from time to time.
+- Also blogs from time to time
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>&nbsp;
-<a href="https://gunhawke.hashnode.dev">Read the Blog</a>
+<a href="https://gunhawke.hashnode.dev">Read the Blog</a>&nbsp;
+<a href="https://drive.google.com/file/d/1Sf0PetWSxdn0_lVwJRrdC-ivOtZ_gnRg/view">Resume</a>
 ## 🛠  Tools and Technologies
 
 
