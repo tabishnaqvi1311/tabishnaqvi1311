@@ -3,8 +3,8 @@
   
 ## About Me 🚀
 - Pre final year computer science student eager to build impactful software
-- Likes geography, music and math
-- Currently exploring machine learning.
+- Likes astronomy, music and math
+- Currently exploring machine learning and devops
 - Also blogs from time to time
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>&nbsp;
@@ -38,6 +38,8 @@
 <img src="https://img.shields.io/badge/postgresql-282C34?logo=postgresql&logoColor=blue" alt="PostgreSQL" title="PostgreSQL" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/prisma-282C34?logo=prisma&logoColor=fff" alt="Prisma" title="Prisma" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon&logoColor=orange" alt="Aws" title="AWS" height="25" />
 &nbsp;
 </div>
 
