@@ -4,7 +4,7 @@
 ## About Me 🚀
 - Pre final year computer science student eager to build impactful software
 - Likes astronomy, music and math
-- Currently exploring machine learning and devops
+- Currently exploring distributed systems and machine learning
 - Also blogs from time to time
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>&nbsp;
