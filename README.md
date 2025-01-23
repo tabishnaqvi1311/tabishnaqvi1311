@@ -3,7 +3,7 @@
   
 ## About Me 🚀
 - Pre final year computer science student eager to build impactful software
-- Building a search engine for tech blogs
+- Building a youtube job board
 - Likes astronomy, music and math
 - Currently exploring distributed systems and machine learning
 - Also blogs from time to time
