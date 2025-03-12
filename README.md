@@ -3,7 +3,7 @@
   
 ## About Me 🚀
 - Pre final year computer science student eager to build
-- Building the first of many of my microstartups: a job board for youtubers
+- Building the first of many of my microstartups: a job board for youtubers, <a href="https://www.usecrimson.me">check it out</a>&nbsp;
 - Comprehending deep neural networks
 - Like astronomy, music and startups
 - Also blog from time to time
