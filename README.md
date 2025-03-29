@@ -4,13 +4,13 @@
 ## About Me 🚀
 - Pre final year computer science student eager to build
 - Building the first of many of my microstartups: a job board for youtubers, <a href="https://www.usecrimson.me">check it out</a>&nbsp;
-- Comprehending deep neural networks
+- Learning ai agents
 - Like astronomy, music and startups
 - Also blog from time to time
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>&nbsp;
 <a href="https://gunhawke.hashnode.dev">Read the Blog</a>&nbsp;
-<a href="https://drive.google.com/file/d/1Sf0PetWSxdn0_lVwJRrdC-ivOtZ_gnRg/view">Resume</a>
+<a href="https://drive.google.com/file/d/1TSlMs-SKHv1cTkZMD_OpmQPrXLm3GuMW/view?usp=sharing">Resume</a>
 ## 🛠  Tools and Technologies
 
 
