@@ -42,6 +42,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/AWS-282C34?logo=amazon&logoColor=orange" alt="Aws" title="AWS" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/go-282C34?logo=go&logoColor=blue" alt="go" title="Go" height="25" />
+&nbsp;
 </div>
 
 </div>
