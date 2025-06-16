@@ -2,11 +2,12 @@
 <h1> Hey, my name is Tabish Naqvi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   
 ## About Me 🚀
-- Pre final year computer science student eager to build
-- Building the first of many of my microstartups: a job board for youtubers, <a href="https://www.usecrimson.me">check it out</a>&nbsp;
-- Learning ai agents
-- Like astronomy, music and startups
-- Also blog from time to time
+- 21
+- Final year computer science student
+- Full stack developer with experience in javascript frameworks and go.
+- Currently upskilling in systems and backend with focus on low level details
+- Likes astronomy, music and startups
+- Also blogs from time to time
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>&nbsp;
 <a href="https://gunhawke.hashnode.dev">Read the Blog</a>&nbsp;
