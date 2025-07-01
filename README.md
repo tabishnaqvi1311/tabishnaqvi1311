@@ -10,7 +10,7 @@
 - Also blogs from time to time
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>&nbsp;
-<a href="https://gunhawke.hashnode.dev">Read the Blog</a>&nbsp;
+<a href="https://tabish.bearblog.dev">Read the Blog</a>&nbsp;
 <a href="https://drive.google.com/file/d/1LJkzJuSLBxuWwZe3GFoYBxS0H2jmsU7G/view?usp=sharing">Resume</a>
 ## 🛠  Tools and Technologies
 
