@@ -2,15 +2,12 @@
 <h1> Hey, my name is Tabish Naqvi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
   
 ## About Me 🚀
-- 21
-- Final year computer science student
+- 22
 - Full stack developer with experience in javascript frameworks and go.
-- Currently upskilling in systems and backend with focus on low level details
+- Currently upskilling in app development and devops
 - Likes astronomy, music and startups
-- Also blogs from time to time
 
 <a href="mailto:tabish.naqvi2003@gmail.com">Get In Touch</a>&nbsp;
-<a href="https://tabish.bearblog.dev">Read the Blog</a>&nbsp;
 <a href="https://drive.google.com/file/d/1LJkzJuSLBxuWwZe3GFoYBxS0H2jmsU7G/view?usp=sharing">Resume</a>
 ## 🛠  Tools and Technologies
 
